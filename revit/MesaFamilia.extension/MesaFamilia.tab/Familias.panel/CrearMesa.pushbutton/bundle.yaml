@@ -1,0 +1,6 @@
+title: "Crear\nMesa"
+tooltip: >-
+  Crea una familia paramétrica de mesa rectangular (Mobiliario):
+  tablero + 4 patas bloqueados a planos de referencia, parámetros
+  de tipo, materiales, dos tipos de catálogo y prueba de flexión.
+author: Claude Code
